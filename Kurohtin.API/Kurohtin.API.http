@@ -1,0 +1,6 @@
+@Kurohtin.API_HostAddress = http://localhost:5002
+
+GET {{Kurohtin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
